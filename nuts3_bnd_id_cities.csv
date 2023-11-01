@@ -1,0 +1,402 @@
+NUTS3,bnd_id,city
+DEF01,01001,Flensburg
+DEF02,01002,Kiel
+DEF03,01003,Lübeck
+DEF04,01004,Neumünster
+DEF05,01051,Dithmarschen
+DEF06,01053,Herzogtum Lauenburg
+DEF07,01054,Nordfriesland
+DEF08,01055,Ostholstein
+DEF09,01056,Pinneberg
+DEF0A,01057,Plön
+DEF0B,01058,Rendsburg-Eckernförde
+DEF0C,01059,Schleswig-Flensburg
+DEF0D,01060,Segeberg
+DEF0E,01061,Steinburg
+DEF0F,01062,Stormarn
+DE600,02000,Hamburg
+DE911,03101,Braunschweig
+DE912,03102,Salzgitter
+DE913,03103,Wolfsburg
+DE914,03151,Gifhorn
+DE916,03153,Goslar
+DE917,03154,Helmstedt
+DE918,03155,Northeim
+DE91A,03157,Peine
+DE91B,03158,Wolfenbüttel
+DE91C,03159,Göttingen
+DE929,03241,Region Hannover
+DE922,03251,Diepholz
+DE923,03252,Hameln-Pyrmont
+DE925,03254,Hildesheim
+DE926,03255,Holzminden
+DE927,03256,Nienburg (Weser)
+DE928,03257,Schaumburg
+DE931,03351,Celle
+DE932,03352,Cuxhaven
+DE933,03353,Harburg
+DE934,03354,Lüchow-Dannenberg
+DE935,03355,Lüneburg
+DE936,03356,Osterholz
+DE937,03357,Rotenburg (Wümme)
+DE938,03358,Heidekreis
+DE939,03359,Stade
+DE93A,03360,Uelzen
+DE93B,03361,Verden
+DE941,03401,Delmenhorst
+DE942,03402,Emden
+DE943,03403,Oldenburg (Oldb)
+DE944,03404,Osnabrück
+DE945,03405,Wilhelmshaven
+DE946,03451,Ammerland
+DE947,03452,Aurich
+DE948,03453,Cloppenburg
+DE949,03454,Emsland
+DE94A,03455,Friesland
+DE94B,03456,Grafschaft Bentheim
+DE94C,03457,Leer
+DE94D,03458,Oldenburg
+DE94E,03459,Osnabrück
+DE94F,03460,Vechta
+DE94G,03461,Wesermarsch
+DE94H,03462,Wittmund
+DE501,04011,Bremen
+DE502,04012,Bremerhaven
+DEA11,05111,Düsseldorf
+DEA12,05112,Duisburg
+DEA13,05113,Essen
+DEA14,05114,Krefeld
+DEA15,05116,Mönchengladbach
+DEA16,05117,Mülheim an der Ruhr
+DEA17,05119,Oberhausen
+DEA18,05120,Remscheid
+DEA19,05122,Solingen
+DEA1A,05124,Wuppertal
+DEA1B,05154,Kleve
+DEA1C,05158,Mettmann
+DEA1D,05162,Rhein-Kreis Neuss
+DEA1E,05166,Viersen
+DEA1F,05170,Wesel
+DEA22,05314,Bonn
+DEA23,05315,Köln
+DEA24,05316,Leverkusen
+DEA2D,05334,Städteregion Aachen
+DEA26,05358,Düren
+DEA27,05362,Rhein-Erft-Kreis
+DEA28,05366,Euskirchen
+DEA29,05370,Heinsberg
+DEA2A,05374,Oberbergischer Kreis
+DEA2B,05378,Rheinisch-Bergischer Kreis
+DEA2C,05382,Rhein-Sieg-Kreis
+DEA31,05512,Bottrop
+DEA32,05513,Gelsenkirchen
+DEA33,05515,Münster
+DEA34,05554,Borken
+DEA35,05558,Coesfeld
+DEA36,05562,Recklinghausen
+DEA37,05566,Steinfurt
+DEA38,05570,Warendorf
+DEA41,05711,Bielefeld
+DEA42,05754,Gütersloh
+DEA43,05758,Herford
+DEA44,05762,Höxter
+DEA45,05766,Lippe
+DEA46,05770,Minden-Lübbecke
+DEA47,05774,Paderborn
+DEA51,05911,Bochum
+DEA52,05913,Dortmund
+DEA53,05914,Hagen
+DEA54,05915,Hamm
+DEA55,05916,Herne
+DEA56,05954,Ennepe-Ruhr-Kreis
+DEA57,05958,Hochsauerlandkreis
+DEA58,05962,Märkischer Kreis
+DEA59,05966,Olpe
+DEA5A,05970,Siegen-Wittgenstein
+DEA5B,05974,Soest
+DEA5C,05978,Unna
+DE711,06411,Darmstadt
+DE712,06412,Frankfurt am Main
+DE713,06413,Offenbach am Main
+DE714,06414,Wiesbaden
+DE715,06431,Bergstraße
+DE716,06432,Darmstadt-Dieburg
+DE717,06433,Groß-Gerau
+DE718,06434,Hochtaunuskreis
+DE719,06435,Main-Kinzig-Kreis
+DE71A,06436,Main-Taunus-Kreis
+DE71B,06437,Odenwaldkreis
+DE71C,06438,Offenbach
+DE71D,06439,Rheingau-Taunus-Kreis
+DE71E,06440,Wetteraukreis
+DE721,06531,Gießen
+DE722,06532,Lahn-Dill-Kreis
+DE723,06533,Limburg-Weilburg
+DE724,06534,Marburg-Biedenkopf
+DE725,06535,Vogelsbergkreis
+DE731,06611,Kassel
+DE732,06631,Fulda
+DE733,06632,Hersfeld-Rotenburg
+DE734,06633,Kassel
+DE735,06634,Schwalm-Eder-Kreis
+DE736,06635,Waldeck-Frankenberg
+DE737,06636,Werra-Meißner-Kreis
+DEB11,07111,Koblenz
+DEB12,07131,Ahrweiler
+DEB13,07132,Altenkirchen (Westerwald)
+DEB14,07133,Bad Kreuznach
+DEB15,07134,Birkenfeld
+DEB1C,07135,Cochem-Zell
+DEB17,07137,Mayen-Koblenz
+DEB18,07138,Neuwied
+DEB1D,07140,Rhein-Hunsrück-Kreis
+DEB1A,07141,Rhein-Lahn-Kreis
+DEB1B,07143,Westerwaldkreis
+DEB21,07211,Trier
+DEB22,07231,Bernkastel-Wittlich
+DEB23,07232,Eifelkreis Bitburg-Prüm
+DEB24,07233,Vulkaneifel
+DEB25,07235,Trier-Saarburg
+DEB31,07311,Frankenthal (Pfalz)
+DEB32,07312,Kaiserslautern
+DEB33,07313,Landau in der Pfalz
+DEB34,07314,Ludwigshafen am Rhein
+DEB35,07315,Mainz
+DEB36,07316,Neustadt an der Weinstraße
+DEB37,07317,Pirmasens
+DEB38,07318,Speyer
+DEB39,07319,Worms
+DEB3A,07320,Zweibrücken
+DEB3B,07331,Alzey-Worms
+DEB3C,07332,Bad Dürkheim
+DEB3D,07333,Donnersbergkreis
+DEB3E,07334,Germersheim
+DEB3F,07335,Kaiserslautern
+DEB3G,07336,Kusel
+DEB3H,07337,Südliche Weinstraße
+DEB3I,07338,Rhein-Pfalz-Kreis
+DEB3J,07339,Mainz-Bingen
+DEB3K,07340,Südwestpfalz
+DE111,08111,Stuttgart
+DE112,08115,Böblingen
+DE113,08116,Esslingen
+DE114,08117,Göppingen
+DE115,08118,Ludwigsburg
+DE116,08119,Rems-Murr-Kreis
+DE117,08121,Heilbronn
+DE118,08125,Heilbronn
+DE119,08126,Hohenlohekreis
+DE11A,08127,Schwäbisch Hall
+DE11B,08128,Main-Tauber-Kreis
+DE11C,08135,Heidenheim
+DE11D,08136,Ostalbkreis
+DE121,08211,Baden-Baden
+DE122,08212,Karlsruhe
+DE123,08215,Karlsruhe
+DE124,08216,Rastatt
+DE125,08221,Heidelberg
+DE126,08222,Mannheim
+DE127,08225,Neckar-Odenwald-Kreis
+DE128,08226,Rhein-Neckar-Kreis
+DE129,08231,Pforzheim
+DE12A,08235,Calw
+DE12B,08236,Enzkreis
+DE12C,08237,Freudenstadt
+DE131,08311,Freiburg im Breisgau
+DE132,08315,Breisgau-Hochschwarzwald
+DE133,08316,Emmendingen
+DE134,08317,Ortenaukreis
+DE135,08325,Rottweil
+DE136,08326,Schwarzwald-Baar-Kreis
+DE137,08327,Tuttlingen
+DE138,08335,Konstanz
+DE139,08336,Lörrach
+DE13A,08337,Waldshut
+DE141,08415,Reutlingen
+DE142,08416,Tübingen
+DE143,08417,Zollernalbkreis
+DE144,08421,Ulm
+DE145,08425,Alb-Donau-Kreis
+DE146,08426,Biberach
+DE147,08435,Bodenseekreis
+DE148,08436,Ravensburg
+DE149,08437,Sigmaringen
+DE211,09161,Ingolstadt
+DE212,09162,München
+DE213,09163,Rosenheim
+DE214,09171,Altötting
+DE215,09172,Berchtesgadener Land
+DE216,09173,Bad Tölz-Wolfratshausen
+DE217,09174,Dachau
+DE218,09175,Ebersberg
+DE219,09176,Eichstätt
+DE21A,09177,Erding
+DE21B,09178,Freising
+DE21C,09179,Fürstenfeldbruck
+DE21D,09180,Garmisch-Partenkirchen
+DE21E,09181,Landsberg am Lech
+DE21F,09182,Miesbach
+DE21G,09183,Mühldorf a. Inn
+DE21H,09184,München
+DE21I,09185,Neuburg-Schrobenhausen
+DE21J,09186,Pfaffenhofen a.d. Ilm
+DE21K,09187,Rosenheim
+DE21L,09188,Starnberg
+DE21M,09189,Traunstein
+DE21N,09190,Weilheim-Schongau
+DE221,09261,Landshut
+DE222,09262,Passau
+DE223,09263,Straubing
+DE224,09271,Deggendorf
+DE225,09272,Freyung-Grafenau
+DE226,09273,Kelheim
+DE227,09274,Landshut
+DE228,09275,Passau
+DE229,09276,Regen
+DE22A,09277,Rottal-Inn
+DE22B,09278,Straubing-Bogen
+DE22C,09279,Dingolfing-Landau
+DE231,09361,Amberg
+DE232,09362,Regensburg
+DE233,09363,Weiden i.d. OPf.
+DE234,09371,Amberg-Sulzbach
+DE235,09372,Cham
+DE236,09373,Neumarkt i.d. OPf.
+DE237,09374,Neustadt a.d. Waldnaab
+DE238,09375,Regensburg
+DE239,09376,Schwandorf
+DE23A,09377,Tirschenreuth
+DE241,09461,Bamberg
+DE242,09462,Bayreuth
+DE243,09463,Coburg
+DE244,09464,Hof
+DE245,09471,Bamberg
+DE246,09472,Bayreuth
+DE247,09473,Coburg
+DE248,09474,Forchheim
+DE249,09475,Hof
+DE24A,09476,Kronach
+DE24B,09477,Kulmbach
+DE24C,09478,Lichtenfels
+DE24D,09479,Wunsiedel i. Fichtelgebirge
+DE251,09561,Ansbach
+DE252,09562,Erlangen
+DE253,09563,Fürth
+DE254,09564,Nürnberg
+DE255,09565,Schwabach
+DE256,09571,Ansbach
+DE257,09572,Erlangen-Höchstadt
+DE258,09573,Fürth
+DE259,09574,Nürnberger Land
+DE25A,09575,Neustadt a.d. Aisch-Bad Windsheim
+DE25B,09576,Roth
+DE25C,09577,Weißenburg-Gunzenhausen
+DE261,09661,Aschaffenburg
+DE262,09662,Schweinfurt
+DE263,09663,Würzburg
+DE264,09671,Aschaffenburg
+DE265,09672,Bad Kissingen
+DE266,09673,Rhön-Grabfeld
+DE267,09674,Haßberge
+DE268,09675,Kitzingen
+DE269,09676,Miltenberg
+DE26A,09677,Main-Spessart
+DE26B,09678,Schweinfurt
+DE26C,09679,Würzburg
+DE271,09761,Augsburg
+DE272,09762,Kaufbeuren
+DE273,09763,Kempten (Allgäu)
+DE274,09764,Memmingen
+DE275,09771,Aichach-Friedberg
+DE276,09772,Augsburg
+DE277,09773,Dillingen a.d. Donau
+DE278,09774,Günzburg
+DE279,09775,Neu-Ulm
+DE27A,09776,Lindau (Bodensee)
+DE27B,09777,Ostallgäu
+DE27C,09778,Unterallgäu
+DE27D,09779,Donau-Ries
+DE27E,09780,Oberallgäu
+DEC01,10041,Regionalverband Saarbrücken
+DEC02,10042,Merzig-Wadern
+DEC03,10043,Neunkirchen
+DEC04,10044,Saarlouis
+DEC05,10045,Saarpfalz-Kreis
+DEC06,10046,St. Wendel
+DE300,11000,Berlin
+DE401,12051,Brandenburg an der Havel
+DE402,12052,Cottbus
+DE403,12053,Frankfurt (Oder)
+DE404,12054,Potsdam
+DE405,12060,Barnim
+DE406,12061,Dahme-Spreewald
+DE407,12062,Elbe-Elster
+DE408,12063,Havelland
+DE409,12064,Märkisch-Oderland
+DE40A,12065,Oberhavel
+DE40B,12066,Oberspreewald-Lausitz
+DE40C,12067,Oder-Spree
+DE40D,12068,Ostprignitz-Ruppin
+DE40E,12069,Potsdam-Mittelmark
+DE40F,12070,Prignitz
+DE40G,12071,Spree-Neiße
+DE40H,12072,Teltow-Fläming
+DE40I,12073,Uckermark
+DE803,13003,Rostock
+DE804,13004,Schwerin
+DE80J,13071,Mecklenburgische Seenplatte
+DE80K,13072,Rostock
+DE80L,13073,Vorpommern-Rügen
+DE80M,13074,Nordwestmecklenburg
+DE80N,13075,Vorpommern-Greifswald
+DE80O,13076,Ludwigslust-Parchim
+DED41,14511,Chemnitz
+DED42,14521,Erzgebirgskreis
+DED43,14522,Mittelsachsen
+DED44,14523,Vogtlandkreis
+DED45,14524,Zwickau
+DED21,14612,Dresden
+DED2C,14625,Bautzen
+DED2D,14626,Görlitz
+DED2E,14627,Meißen
+DED2F,14628,Sächsische Schweiz-Osterzgebirge
+DED51,14713,Leipzig
+DED52,14729,Leipzig
+DED53,14730,Nordsachsen
+DEE01,15001,Dessau-Roßlau
+DEE02,15002,Halle (Saale)
+DEE03,15003,Magdeburg
+DEE04,15081,Altmarkkreis Salzwedel
+DEE05,15082,Anhalt-Bitterfeld
+DEE07,15083,Börde
+DEE08,15084,Burgenlandkreis
+DEE09,15085,Harz
+DEE06,15086,Jerichower Land
+DEE0A,15087,Mansfeld-Südharz
+DEE0B,15088,Saalekreis
+DEE0C,15089,Salzlandkreis
+DEE0D,15090,Stendal
+DEE0E,15091,Wittenberg
+DEG01,16051,Erfurt
+DEG02,16052,Gera
+DEG03,16053,Jena
+DEG04,16054,Suhl
+DEG05,16055,Weimar
+DEG0N,16056,Eisenach
+DEG06,16061,Eichsfeld
+DEG07,16062,Nordhausen
+DEG0P,16063,Wartburgkreis
+DEG09,16064,Unstrut-Hainich-Kreis
+DEG0A,16065,Kyffhäuserkreis
+DEG0B,16066,Schmalkalden-Meiningen
+DEG0C,16067,Gotha
+DEG0D,16068,Sömmerda
+DEG0E,16069,Hildburghausen
+DEG0F,16070,Ilm-Kreis
+DEG0G,16071,Weimarer Land
+DEG0H,16072,Sonneberg
+DEG0I,16073,Saalfeld-Rudolstadt
+DEG0J,16074,Saale-Holzland-Kreis
+DEG0K,16075,Saale-Orla-Kreis
+DEG0L,16076,Greiz
+DEG0M,16077,Altenburger Land
